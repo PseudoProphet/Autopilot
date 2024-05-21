@@ -1,0 +1,3 @@
+openai
+pyautogui
+python-dotenv
