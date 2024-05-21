@@ -27,17 +27,17 @@ Phase 2 is where Autopilot gets even smarter:
 
 **Prerequisites:**
 
-* Python 3.x
-* (List any other libraries or tools required for Phase 1)
+* Python
+* OpenAI API keys
 
 **Instructions:** (Provide detailed instructions on how to get Autopilot up and running)
 
 ## Contributing 💪
 
-We welcome contributions! Whether it's improving the LLM's understanding, adding new tasks, or enhancing the action verification system, your expertise is valuable. Check out our contribution guidelines (insert link) to get started.
+I welcome contributions! Whether it's improving the LLM's understanding, adding new tasks, or enhancing the action verification system, your expertise is valuable. Check out our contribution guidelines (insert link) to get started.
 
 ## Disclaimer ⚠️
 
-Autopilot is in active development. While it can already perform many tasks, it's important to exercise caution and supervise its actions. We are not responsible for any unintended consequences.
+Autopilot is in active development. While it can already perform many tasks, it's important to exercise caution and supervise its actions. I am not responsible for any unintended consequences.
 
 ## Let's Automate the Future Together! ✨
